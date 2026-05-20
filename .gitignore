@@ -1,0 +1,34 @@
+# Visual Studio
+.vs/
+out/
+build/
+x64/
+Debug/
+Release/
+*.vcxproj.user
+*.VC.db
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+compile_commands.json
+
+# Binary
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+
+# Secrets
+*.env
+secret/
+keys/
